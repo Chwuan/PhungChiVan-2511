@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+*.dll
+platform/
+*.pem
+keys/
